@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/KOBA789/node-gin.png)](http://travis-ci.org/KOBA789/node-gin)
 # Node-Gin
 
 A port of the Gin library into a node module.
